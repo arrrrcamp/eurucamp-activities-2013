@@ -15,7 +15,7 @@ en:
 
   user_nav:
     back_home:
-      label: Back to eurucamp activities
+      label: Back to ArrrrCamp events
       title: Go back to front page
     account:
       label: My Account
@@ -52,27 +52,27 @@ en:
       today: Today
       all: All
       owner: Created by me
-      participant: My activities
+      participant: My events
       submit: Filter
     new:
-      label: Create an activity
-      title: Create a new activity
+      label: Create an event
+      title: Create a new event
     search:
-      placeholder: Search for an activity
+      placeholder: Search for an event
       clear: Clear
     join:
       label: Join
       title: Sign-up as participant
     edit:
       label: Edit
-      title: Edit the activity details
+      title: Edit the event details
     leave:
       label: Cancel
       title: Cancel your participation
     more_info:
       label: More info
-      label_long: View activity details
-      title: Learn more about this activity
+      label_long: View event details
+      title: Learn more about this event
     anytime: Anytime
     time_and_date: "Time & Date"
     start:
@@ -98,19 +98,19 @@ en:
         not_supported_protocol: "protocol not supported ;)"
 
   new_activity:
-    title: Organize an activity
-    notice: Your activity has been created!
+    title: Organize an event
+    notice: Your event has been created!
     error: Activity could not be saved. Please check your input.
 
   edit_activity:
-    title: Edit your activity
-    notice: Your activity has been updated!
+    title: Edit your event
+    notice: Your event has been updated!
     error: Your changes could not be saved. Please check your input.
 
   activity_form:
     markdown_hint: You can use Markdown here
     name:
-      label: Give your activity a name
+      label: Give your event a name
     description:
       label: Description
       hint: "Background information, links, etc."
@@ -118,7 +118,7 @@ en:
       hint: Without a specific date/time
     location:
       label: Location
-      hint: "Where does your activity take place, where to meet, …"
+      hint: "Where does your event take place, where to meet, …"
     limit_of_participants:
       hint: Max. participants
     requirements:
