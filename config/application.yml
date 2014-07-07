@@ -1,8 +1,8 @@
 defaults: &defaults
   event:
     name: "ArrrrCamp 2014"
-    start_time: 2014-10-02 00:00:00
-    end_time: 2014-10-03 23:59:59
+    start_time: 2014-09-29 00:00:00
+    end_time: 2014-10-06 23:59:59
   host: "events.arrrrcamp.be"
   mailers:
     from: "captain@arrrrcamp.be"
