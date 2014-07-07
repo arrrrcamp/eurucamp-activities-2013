@@ -1,20 +1,20 @@
 defaults: &defaults
   event:
-    name: "eurucamp 2014"
-    start_time: 2014-08-01 00:00:00
-    end_time: 2014-08-03 23:59:59
-  host: "activities.eurucamp.org"
+    name: "ArrrrCamp 2014"
+    start_time: 2014-10-02 00:00:00
+    end_time: 2014-10-03 23:59:59
+  host: "events.arrrrcamp.be"
   mailers:
-    from: "activities@eurucamp.org"
+    from: "captain@arrrrcamp.be"
   errors:
-    from: "exception@eurucamp.org"
+    from: "captain@arrrrcamp.be"
     to:
-      - "pietia@appgrinder.pl"
-      - "florian@polarblau.com"
+      - "hannes@openminds.be"
+      - "joren@openminds.be"
   seo:
-    title: "eurucamp Activities"
-    author: "eurucamp team"
-    description: "List of companion events."
+    title: "ArrrrCamp Events"
+    author: "The Captain"
+    description: "A collection of fringe events for ArrrrCamp 2014 by and for attendees"
 
 development:
   <<: *defaults
